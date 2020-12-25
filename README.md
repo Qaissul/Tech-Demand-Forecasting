@@ -4,9 +4,7 @@ Demand Forecasting to improve Technical Field Service Management - Final project
 
 ## Summary
 
-Based on orders, shop floor activities and feedback from field (e.g. maintanance activities, conversion frquency, frequent failures, and so on) as well as historic data (e.g. capacity bottleneck, KPI's) the AI-system should recommend a plan how to manage existing service technicians, including when and whom to hire in future.
-
-Recommendation system is based on Service-Technicians-workload as KPI.
+Based on orders, shop floor activities, feedback from field, KPI's and historic data the AI-system should recommend a plan how to manage existing service technician pool, including when and whom to hire in future.
 
 
 ## Background
