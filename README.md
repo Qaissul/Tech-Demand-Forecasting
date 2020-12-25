@@ -1,7 +1,6 @@
 # Project Title
 
-Final project for the Building AI course - 
-Demand Forecasting to improve Technical Field Service Management
+Demand Forecasting to improve Technical Field Service Management - Final project for the Building AI course
 
 ## Summary
 
@@ -49,3 +48,4 @@ AI method:
 
 ## Acknowledgments
 
+-
